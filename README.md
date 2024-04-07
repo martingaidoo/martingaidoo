@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🌱 I’m currently learning ...
 ![fotoAbajo](https://github.com/martingaidoo/martingaidoo/assets/119458663/a6495ed4-3d06-4b5b-901b-d95d4e2eac22)
 
 
