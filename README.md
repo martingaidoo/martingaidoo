@@ -1,5 +1,6 @@
 ### Hi there 👋
-![fotoPortada](https://github.com/martingaidoo/martingaidoo/assets/119458663/308b5cd0-aed8-41d9-b856-f62175679694)
+![fotoAbajo](https://github.com/martingaidoo/martingaidoo/assets/119458663/a6495ed4-3d06-4b5b-901b-d95d4e2eac22)
+
 
 <!--
 **martingaidoo/martingaidoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
