@@ -1,4 +1,5 @@
 ### Hi there 👋
+![fotoPortada](https://github.com/martingaidoo/martingaidoo/assets/119458663/308b5cd0-aed8-41d9-b856-f62175679694)
 
 <!--
 **martingaidoo/martingaidoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
