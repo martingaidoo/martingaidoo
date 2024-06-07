@@ -47,7 +47,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=figma,ps"/></td>
     </tr>
 </table>
 
