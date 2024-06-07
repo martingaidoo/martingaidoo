@@ -5,6 +5,8 @@
 </div>
 
 <h1 align="center">Hola a todos 👋, Yo soy Martin</h1>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hola+a+todos!+👋;+Yo+soy+Martin+Gaido!;" />
+
 
 ![fotoAbajo](https://github.com/martingaidoo/martingaidoo/assets/119458663/a6495ed4-3d06-4b5b-901b-d95d4e2eac22)
 
@@ -27,7 +29,7 @@
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,java,php,cs"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,java,php"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
